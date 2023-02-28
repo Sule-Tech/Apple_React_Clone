@@ -1,0 +1,318 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EWPE4kik0MBhcnWzPumm2wJs0k4",
+  "nextPageToken": "CAkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 235,
+    "resultsPerPage": 9
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rNitqx_EKP_zE8u64C63mNNjR8g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1HWUjMjaBJI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-24T16:00:01Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Privacy on iPhone | A Day in the Life of an Average Person’s Data | Apple",
+        "description": "iPhone is designed with privacy built in. Follow Nick Mohammed through his “average” day to learn how data companies are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1HWUjMjaBJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1HWUjMjaBJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1HWUjMjaBJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-24T16:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "25pMWXuZrAZioAbWrNMWAywA1sk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oMf_i1YBuMk"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-18T14:44:48Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing the all-new HomePod | Apple",
+        "description": "A powerful, high-excursion woofer and beamforming tweeters create room-filling sound. HomePod senses its surroundings and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oMf_i1YBuMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oMf_i1YBuMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMf_i1YBuMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-18T14:44:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sP318cM_XEaKhMxEFlk8gIC8Ia4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Ij9PiehENA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-17T14:21:22Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Meet the new MacBook Pro and Mac mini | Apple",
+        "description": "Introducing the new MacBook Pro and Mac mini supercharged by the next generation of Apple silicon. Mac mini with M2 and M2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Ij9PiehENA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Ij9PiehENA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Ij9PiehENA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-17T14:21:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B_GVGZPNUyt8QHTBTyK5BTsevXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HjHG5kzi85o"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-12T16:15:00Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Shot on iPhone 14 Pro | Chinese New Year - Through the Five Passes | Apple",
+        "description": "Welcome the Year of the Rabbit with a story about a young man, his love for opera, and the spirit of persistence. Apple and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HjHG5kzi85o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HjHG5kzi85o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HjHG5kzi85o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-12T16:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u2hFY8-zNxb61ShnGX0K8NsRKeg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7O-zjxr-y-8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-12T16:15:00Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Shot on iPhone 14 Pro | Chinese New Year - Making of “Through the Five Passes” with Peng Fei | Apple",
+        "description": "Go behind the lens of iPhone 14 Pro with director Peng Fei, and uncover the cinema secrets behind Apple's latest Chinese New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7O-zjxr-y-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7O-zjxr-y-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7O-zjxr-y-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-12T16:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IZ0iWGieVJdk6aigfGFhkVBc4TQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tRPqGf8nc4g"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T01:15:01Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 14 | Action mode | Apple",
+        "description": "Action mode turns a shaky camera into smooth video. Relax, it's iPhone 14. Learn more about iPhone 14 at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tRPqGf8nc4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tRPqGf8nc4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRPqGf8nc4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T01:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GfN__M3lGQf65VXRbhbbTaSyROY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "t2n0ykn4AKw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-10T01:15:01Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iPhone 14 | R.I.P. Leon | Apple",
+        "description": "Unsend and edit messages. Relax, it's iPhone. Learn more at https://apple.co/3QMLxGO 'ALIVE' by Hanni El Khatib ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t2n0ykn4AKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t2n0ykn4AKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t2n0ykn4AKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-10T01:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jK162DSUFsxQHAL8TlMmlIw1EkA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GxFfWr-NvAY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T14:00:07Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Did You Know? with Scarlet May | Apple",
+        "description": "Sound Recognition on iPhone with @ScarletMay Learn more https://apple.com/accessibility #Apple #Accessibility #DidYouKnow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GxFfWr-NvAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GxFfWr-NvAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GxFfWr-NvAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-DNI4qxK8nWiAMXA3KQfws4Iy-A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6epBWZ9ycP0"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-03T14:00:02Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Did You Know? with Willie Eaton | Apple",
+        "description": "Facial expression switches on Mac with @illy.willie Learn more https://apple.com/accessibility #Apple #Accessibility ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6epBWZ9ycP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6epBWZ9ycP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6epBWZ9ycP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-03T14:00:02Z"
+      }
+    }
+  ]
+}
